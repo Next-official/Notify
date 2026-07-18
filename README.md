@@ -6,7 +6,7 @@ Il diario personale che trasforma i tuoi momenti quotidiani in un archivio priva
 
 **Descrizione**
 
-Diario è un'applicazione interattiva ispirata al design iOS, pensata per rendere la scrittura di un diario personale semplice, veloce e piacevole da usare. L'obiettivo è offrire uno spazio privato in cui annotare pensieri e momenti della giornata, restituendo allo stesso tempo una panoramica visiva e motivante delle proprie abitudini di scrittura.
+Notify Diary è un'applicazione interattiva ispirata al design iOS, pensata per rendere la scrittura di un diario personale semplice, veloce e piacevole da usare. L'obiettivo è offrire uno spazio privato in cui annotare pensieri e momenti della giornata, restituendo allo stesso tempo una panoramica visiva e motivante delle proprie abitudini di scrittura.
 
 
 
