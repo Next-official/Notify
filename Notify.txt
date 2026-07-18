@@ -368,7 +368,7 @@
             <div class="ins-card widget-visited">
                 <div class="ins-label" style="color:rgba(255,255,255,0.8)">Visited</div>
                 <div class="box-num" id="stat-visited-places">1</div>
-                <div style="font-size: 12px; opacity: 0.9;">🌍 State</div>
+                <div style="font-size: 12px; opacity: 0.9;">State</div>
             </div>
 
             <!-- Widget Parole Scritte Gigante -->
